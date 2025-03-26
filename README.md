@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 🐍 Data Science professional 
-- 🔭 Discovring the mistery of **Data Science & Machine Learning**.
-- 🌱 Learning the art **Reinforcement Learning, Optimization, and ML techniques**.
+- 🔭 Discovering the mistery of **Data Science & Machine Learning**.
+- 🌱 Learning the art of **Reinforcement Learning, Optimization, and ML techniques**.
 - 🤝 Open to collaborations on **Optimization problems and ML applications**.
 - 💡 Interested in real-world applications of **ML in aviation and logistics**.
 
